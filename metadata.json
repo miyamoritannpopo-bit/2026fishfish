@@ -1,0 +1,8 @@
+{
+  "name": "Remix ことば釣りマスター (Word Fishing Master)",
+  "description": "社会科・算数・理科の重要学習用語を文字カードで組み合わせて魚を釣り上げる体験型知育ゲーム。用語図鑑や水族館コレクションで楽しく学べる！",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
